@@ -2,7 +2,7 @@
 
 As operating systems evolve unmaintained software has a tendency to break. If you are in a situation where IRAF is no longer usable, and you are still dependent upon it for one reason or another, we have created a CentOS 7 virtual appliance with everything pre-installed.
 
-On `[DATE]` STScI will cease providing software support for the following products:
+On 10/01/2019 STScI will cease providing software support for the following products:
 
 * Python 2.7
 * PyRAF

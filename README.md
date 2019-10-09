@@ -254,7 +254,7 @@ $ pyraf
 2. Enable X11 forwarding for your client (do not specify a custom DISPLAY; it will be automatically assigned at login)
 3. Set username to: `aciraf`
 4. Set password to: `aciraf`
-5. Set the remote host to: `192.168.56.1`
+5. Set the remote host to: `192.168.56.101`
 6. [optional] Save your connection details to avoid repeating this in the future
 7. Connect
 
